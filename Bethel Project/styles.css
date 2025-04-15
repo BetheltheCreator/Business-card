@@ -1,0 +1,48 @@
+body {
+    margin: 20px;
+    /*
+    Challenge:
+    Find a web safe font you like, and add it 
+    to your card.
+    */
+   
+}
+
+.avatar {
+    width: 150px;
+    border: 0 solid #450920;
+    border-radius: 20px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #450920;
+    color: #fefae0;
+    border-bottom: 6px solid #000000;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+
+.border-blue {
+    border: 3px dotted blue;
+}
+
+/*
+Stretch goals:
+Find other ways you can personalize 
+the design of your business card, e.g.:
+- change the border(s)
+- add border radius
+- shuffle the layout
+- shadows        🤯
+- hover effects  🤯🤯
+- animations     🤯🤯🤯
+*/
+
